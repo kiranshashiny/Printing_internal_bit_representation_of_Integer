@@ -1,4 +1,4 @@
-# Printing_internal_bit_representation_of_integer
+# Printing_internal_bit_representation_of_an_Integer
 
 
 Prints numbers from 3 to 15 and it's internal bits or so.
