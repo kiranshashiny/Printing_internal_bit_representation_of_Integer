@@ -4,7 +4,7 @@
 Prints numbers from 3 to 15 and it's internal bits or so.
 
 ```
-Shashis-MacBook-Air:c_programs shashikiran$ ./ascii
+$ ./ascii
 MAX POW : 2147483648
 i = 0, num = 2
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
