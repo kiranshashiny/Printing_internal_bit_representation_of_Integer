@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Testing the code.
+
 int main () {
 
     int num = 2;
